@@ -78,6 +78,19 @@ The most contributed Agent Skills repository, built and maintained together with
 | [Redis](#skills-by-redis) | [NVIDIA](#skills-by-nvidia) | [Google Cloud](#skills-by-google-cloud) | [Quality Standards](#skill-quality-standards) |
 
 
+<br/>
+
+<br/>
+
+<a href="https://launchkit.getdesign.md/">
+<img src="https://cdn.voltagent.dev/awesome-repo/launchkit-banner-3.png" alt="launchkit"  /><br/>
+</a>
+
+<br/>
+
+
+<br/>
+
 <details open>
 <summary><h3 style="display:inline">Official Claude Skills</h3></summary>
 
@@ -336,7 +349,7 @@ Production-grade Agent Skills for every major test automation framework, maintai
 
 </details>
 
-<details open>
+<details>
 <summary><h3 style="display:inline">Skills by Venice.ai</h3></summary>
 
 Official skills by Venice.ai for the Venice API.
@@ -1359,7 +1372,7 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 
 </details>
 
-<details open>
+<details>
 <summary><h3 style="display:inline">Skills by Redis</h3></summary>
 
 - **[redis/redis-development](https://github.com/redis/agent-skills/tree/main/skills/redis-development)** - Redis development best practices — data structures, query engine, vector search, caching, and performance optimization.
@@ -1607,7 +1620,7 @@ Official Google Cloud skills covering Firebase, BigQuery, Cloud Run, GKE, AlloyD
 
 </details>
 
-<details open>
+<details>
 <summary><h3 style="display:inline">Skills by RedHat</h3></summary>
 
 Extend the power of AI across your organization with a curated library of skills, agents, and MCP servers—all backed by your Red Hat subscription. Whether you’re an SRE optimizing workflows in Cursor or an architect building intelligent interfaces, leverage trusted building blocks to deploy and scale agentic automation with confidence.
@@ -1857,18 +1870,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 
 </details>
 
-<br/>
 
-<br/>
-
-<a href="https://launchkit.getdesign.md/">
-<img src="https://cdn.voltagent.dev/awesome-repo/launchkit-banner-3.png" alt="launchkit"  /><br/>
-</a>
-
-<br/>
-
-
-<br/>
 
 
 ## 🔒 Security Notice
